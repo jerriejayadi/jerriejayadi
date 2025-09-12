@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, There 👋
 
 <!--
 **jerriejayadi/jerriejayadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=jerriejayadi&show_icons=true&theme=transparent"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerriejayadi&hide=css,scss&theme=transparent"></img>
+</div>
+ <a href="https://www.instagram.com/t_jerriejayadi" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.x.com/febryar69/" target="_blank"><img src="https://img.shields.io/badge/Twitter-301934.svg?&style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
+
+
